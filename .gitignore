@@ -1,6 +1,11 @@
-.ipynb_checkpoints
+.venv/
+.conda/
+.ipynb_checkpoints/
 logs/*
+models-bkp/*
 models/*
+results/*
+logs/*
 flagged/*
 *.zip
 local*
