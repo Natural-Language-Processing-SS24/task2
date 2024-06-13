@@ -9,3 +9,4 @@ logs/*
 flagged/*
 *.zip
 local*
+*.png
