@@ -1,9 +1,6 @@
 pyyaml
 nltk
-spacy
-pyspellchecker
 seaborn
-pyenchant
 datasets
 optuna
 optuna-integration
@@ -15,5 +12,4 @@ matplotlib
 transformers
 wordcloud
 scikit-learn
-contractions
 tensorflow==2.12.0
