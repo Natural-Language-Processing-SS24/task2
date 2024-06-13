@@ -1,6 +1,12 @@
 pyyaml
 nltk
+spacy
+pyspellchecker
+seaborn
+pyenchant
+datasets
 optuna
+optuna-integration
 numpy
 gradio
 pandas
